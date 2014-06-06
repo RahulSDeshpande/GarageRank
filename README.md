@@ -1,6 +1,6 @@
 
-Sync and Search you browsing activity on the cloud
-==================================================
+Sync and Search your browsing activity on the cloud
+===================================================
 
 FWT ! What about my privacy ?
 -----------------------------
